@@ -25,11 +25,13 @@
 			<p class="text"><b>Вы сутулитесь время от времени?</b><br>Да - <input type="radio" name="name10" id="n1" value="1"><br> Нет - <input name="name10" type="radio" id="n2" value="0"> </p>
 	 <button class="btn1">Узнать результат</button> 
   <br>
-  <center>
+
+<script src="main.js"></script>	
+
+<center>
 <div class="text">
 <div class="out1" id="out"></div>
 </div>
-  </center>
-<script src="main.js"></script>	
+</center>
 </body>
 </html>
