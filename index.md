@@ -26,15 +26,10 @@
 	 <button class="btn1">Узнать результат</button> 
   <br>
   <center>
-	  <div class="text">
-		  	<div class="out1" id="out"></div>
+<div class="text">
+<div class="out1" id="out"></div>
 </div>
   </center>
 <script src="main.js"></script>	
-	<hr>
-	<ul>
-		<li class="vk"><a href="https://vk.com/whoamin">ВК</a> разработчика</li>
-
-	</ul>  
-	</body>
+</body>
 </html>
