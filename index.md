@@ -26,10 +26,10 @@
 	<button class="btn1">Узнать результат</button> 
   	<br>
 	<script src="main.js"></script>	
-	<center>
 	<div class="text">
+	<center>
 	<div class="out1" id="out"></div>
-	</div>
 	</center>
+	</div>
 </body>
 </html>
