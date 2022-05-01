@@ -31,5 +31,3 @@
 	<div class="out1" id="out"></div>
 	</center>
 	</div>
-</body>
-</html>
